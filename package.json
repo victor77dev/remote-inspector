@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'ok'",
-    "start": "chii start",
+    "start": "chii start -p 443",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
