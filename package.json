@@ -1,0 +1,23 @@
+{
+  "name": "remote-inspector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "chii start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor77dev/remote-inspector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor77dev/remote-inspector/issues"
+  },
+  "homepage": "https://github.com/victor77dev/remote-inspector#readme",
+  "dependencies": {
+    "chii": "^1.9.0"
+  }
+}
